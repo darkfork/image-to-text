@@ -44,7 +44,7 @@ if image is not None:
 else:
     st.write("Upload an Image")
 
-st.caption("Made by @darkfork 🧙")
+st.caption("Made by @darkfork 🧙‍♂️")
 
 
 
